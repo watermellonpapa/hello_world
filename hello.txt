@@ -1,3 +1,3 @@
-this is file to test git's function 
+this is file to test git function 
 this file is so short
-
+I want to add sth new at here
